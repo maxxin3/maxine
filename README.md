@@ -6,7 +6,7 @@
 <img width="25" height="25" src="https://emoji.gg/assets/emoji/9010_sign_male.png"> Male <br>
 <img width="25" height="25" src="https://emoji.gg/assets/emoji/6414_Birthday_Cake_Monkey.png"> January 16 <br>
 <img width="25" height="25" src="https://emoji.gg/assets/emoji/8111-handpray-islam.png"> Muslim <br>
-<img width="30" height="20" src="https://emoji.gg/assets/emoji/7152-kurdistan.png"> Philippines
+<img width="30" height="20" src="https://emoji.gg/assets/emoji/7152-kurdistan.png"> Kurdistan 
 </div>
 
 <h2 align="center">Github Stats</h2>
